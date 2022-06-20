@@ -1,0 +1,17 @@
+.text {
+    display: inline-block;
+    width: 200px;
+    margin-top: 5px;
+}
+/*.sel{*/
+/*    display: inline-block;*/
+/*    width: 200px;*/
+/*    margin-top: 5px;*/
+/*    text-align: left;*/
+/*}*/
+input{
+    width: 180px;
+}
+select{
+    width: 180px;
+}
